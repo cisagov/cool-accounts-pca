@@ -75,7 +75,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| provisionaccount | github.com/cisagov/provisionaccount-role-tf-module |  |
+| provisionaccount | github.com/cisagov/provisionaccount-role-tf-module | n/a |
 
 ## Resources ##
 
